@@ -1,1 +1,1 @@
-# SampleProjects
+# Sample Java Projects
